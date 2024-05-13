@@ -1,0 +1,15 @@
+/* custom-water-meter-card.css */
+.meter {
+    font-size: 20px;
+    display: flex;
+}
+.thousands {
+    background-color: black;
+    color: white;
+    padding: 4px;
+}
+.liters {
+    background-color: red;
+    color: white;
+    padding: 4px;
+}
